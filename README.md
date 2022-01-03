@@ -1,6 +1,6 @@
 # leestarb
 
-[![Views](https://hitcounter.pythonanywhere.com/count/tag.svg)](https://github.com/leestarb)
+[![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fleestarb)](https://github.com/leestarb)
 
 
 Just intrested in coding
