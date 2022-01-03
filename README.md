@@ -1,5 +1,8 @@
 # leestarb
 
+[![Views](https://hitcounter.pythonanywhere.com/count/tag.svg)](https://github.com/leestarb)
+
+
 Just intrested in coding
 
 [![GitHub Stats](http://github-readme-stats.vercel.app/api?username=leestarb&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/leestarb)
