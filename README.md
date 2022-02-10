@@ -1,8 +1,8 @@
-# leestarb
+# About me
 
-Intrested in coding!
+Intrested in coding with Python!
 
-![Generate Stats Images](https://github.com/leestarb/github-stats/actions/workflows/main.yml/badge.svg)
+## My GitHub activity
 
 ![Stats](https://github.com/leestarb/github-stats/blob/master/generated/overview.svg)
 ![Langs](https://github.com/leestarb/github-stats/blob/master/generated/languages.svg)
